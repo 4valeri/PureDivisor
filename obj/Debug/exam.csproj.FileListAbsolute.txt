@@ -1,0 +1,6 @@
+c:\users\us\documents\visual studio 2015\Projects\ex16\PureDivisor\obj\Debug\exam.csprojResolveAssemblyReference.cache
+c:\users\us\documents\visual studio 2015\Projects\ex16\PureDivisor\bin\Debug\PureDivisor.exe.config
+c:\users\us\documents\visual studio 2015\Projects\ex16\PureDivisor\bin\Debug\PureDivisor.exe
+c:\users\us\documents\visual studio 2015\Projects\ex16\PureDivisor\bin\Debug\PureDivisor.pdb
+c:\users\us\documents\visual studio 2015\Projects\ex16\PureDivisor\obj\Debug\PureDivisor.exe
+c:\users\us\documents\visual studio 2015\Projects\ex16\PureDivisor\obj\Debug\PureDivisor.pdb
